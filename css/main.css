@@ -1,0 +1,98 @@
+.container.registerForm, .container.loginForm{
+    width: 600px;
+}
+.jumbotron{
+    padding: 1rem 1rem;
+}
+.mr30{
+    margin-right: 30px !important;
+}
+.ml30{
+    margin-left: 30px !important;
+}
+.mt30{
+    margin-top: 30px !important;
+}
+.mr10{
+    margin-right: 10px;
+}
+.mt10{
+    margin-top: 10px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.ml10{
+    margin-left: 10px;
+}
+.ml20{
+    margin-left: 20px;
+}
+.color-green{
+    color: green;
+}
+.nav>li{
+    margin-right: 10px;
+}
+.gray{
+    color: #555;
+}
+.pages p{
+    width: 170px;
+}
+.sales.table td{
+    border-top: none;
+}
+.modal-body {
+    text-align: center;
+}
+#artwork-image img{
+    cursor: pointer;
+}
+#artwork-desc .summary{
+    text-align: justify;
+}
+.img-thumbnail{
+    width: 200px;
+    height: 200px;
+}
+.thumbnail{
+    text-align: center;
+    padding: 10px;
+    margin-right: 20px;
+    width: 300px;
+}
+.result h3{
+    margin-top: 0px;
+}
+.title-text,.desc-text{
+    display: none;
+}
+div#searchForm form {
+    background:#e7e7e7;
+    padding: 20px;
+    margin: 20px;
+}
+div#searchForm form input[type='text'] {
+    padding: 10px;
+    margin: 10px;
+}
+.error p{
+    font-size: 35px;
+}
+span.counter {
+    margin-left: 14px;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 10px;
+    background: #000;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+.wareshouseStatus{
+    color: green;
+}
+.right{
+    float: right !important;
+}
